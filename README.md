@@ -11,4 +11,7 @@ Further, Microsoft Synapse Analytics processes the data in the gold layer, enabl
 
 
 
+
+
+
 ![Workflow](https://github.com/user-attachments/assets/31f4a647-1302-4c57-9fc0-d1fe9709fa50)
